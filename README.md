@@ -17,3 +17,4 @@ Behavior is driven by a structured system prompt (role, context, scope, guardrai
 - **Temperature:** 0.4, **Max tokens:** 500
 - **UI:** Gradio ChatInterface with per-session conversation history
 - **Secret required:** `GROQ_API_KEY` (Space settings → Variables and secrets)
+- **Streamlit app:** 'URL':https://e-commerce-chatbot-8pgqihztnswpjq77zxzmie.streamlit.app/
